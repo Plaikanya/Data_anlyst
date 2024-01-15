@@ -1,2 +1,3 @@
 # Data_anlyst
-SQL Challenge original in replit 
+SQL Challenge : Analysis books sales (original in replit)
+Data by : Datayolk
