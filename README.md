@@ -11,4 +11,3 @@ Data by : Datayolk
 `JOIN` `CASE WHEN`  
   
 `Aggregate Functions`
-
