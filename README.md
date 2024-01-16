@@ -3,18 +3,12 @@
 Data by : Datayolk  
   
 
-### Function in Challenge  
-`SELECT`  
+## Function in Challenge  
+`SELECT` `WHERE`
   
-`WHERE`
+`GROUP BY` `ORDER BY`
+
+`JOIN` `CASE WHEN`  
   
 `Aggregate Functions`
-  
-`GROUP BY`
-
-`ORDER BY`
-
-`JOIN`
-  
-`CASE WHEN`
 
